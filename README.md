@@ -1,4 +1,4 @@
-# 🗳️ AP Online Voting System
+# 🗳️ Online Voting System
 
 ### Internship Project | Web Development | 2026
 
